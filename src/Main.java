@@ -88,7 +88,7 @@ public class Main {
 
         }
     }
-
+//
     public static void task8() {
         int emergencePeriod = 79;
         int startSeeing =0;
